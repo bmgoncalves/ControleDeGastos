@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JBXRWbw72AMpw5izKL2tRvGcJeQhrT68tYI1CKM2aa4=",
+  "Source": "ControleDeGastos.Service.AuthProvider",
+  "BasePath": "_content/ControleDeGastos.Service.AuthProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

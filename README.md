@@ -1,4 +1,4 @@
-# Olá, me chamo Bruno! 
+# Olá, me chamo Bruno!!
 ## Bem vindo ao meu perfil GitHub 🤙🏾
 
 - 🔭 Atualmente estou trabalhando em alguns projetos privados na Orient Relógios da Amazônia.

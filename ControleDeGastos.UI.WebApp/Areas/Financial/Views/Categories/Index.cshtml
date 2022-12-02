@@ -1,0 +1,67 @@
+﻿@using ControleDeGastos.ApplicationCore.Entities
+
+@model List<Category>
+
+@{
+    ViewData["Title"] = "Categories";
+    Layout = "_Layout";
+
+}
+
+
+<style>
+    .table tbody tr td {
+        text-align: left;
+    }
+
+    .table thead tr th {
+        text-align: left;
+    }
+</style>
+
+<div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-12222">
+    <div class="mdc-card">
+        <section class="mdc-card__primary">
+            <h1 class="mdc-card__title mdc-card__title--large">Categories</h1>
+        </section>
+
+
+        <div class="template-demo">
+            <div class=" mx-3">
+                <a href="@(Url.Action("AddOrEdit","Categories"))" class="mdc-button mdc-button--raised" data-mdc-auto-init="MDCRipple">
+                    &nbsp; Add &nbsp;
+                </a>
+            </div>
+
+            <table class="table table-hoverable">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Category</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="text-start">
+                    @if (Model != null)
+                    {
+                        @foreach (var c in Model)
+                        {
+
+                            <tr>
+                                <td>@c.Id</td>
+                                <td>@c.Description</td>
+                                <td class="h-100">
+                                    <a href="@(Url.Action("AddOrEdit","Categories", new { id=c.Id }))" class="mdc-button">
+                                        <i class="material-icons mdc-button__icon">edit</i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

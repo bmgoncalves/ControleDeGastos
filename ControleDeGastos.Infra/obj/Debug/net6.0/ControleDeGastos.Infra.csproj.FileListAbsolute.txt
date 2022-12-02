@@ -1,0 +1,17 @@
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\bin\Debug\net6.0\ControleDeGastos.Infra.deps.json
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\bin\Debug\net6.0\ControleDeGastos.Infra.runtimeconfig.json
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\bin\Debug\net6.0\ControleDeGastos.Infra.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\bin\Debug\net6.0\ControleDeGastos.Infra.pdb
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\bin\Debug\net6.0\ControleDeGastos.ApplicationCore.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\bin\Debug\net6.0\ControleDeGastos.ApplicationCore.pdb
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.csproj.AssemblyReference.cache
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.AssemblyInfoInputs.cache
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.AssemblyInfo.cs
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.csproj.CoreCompileInputs.cache
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.csproj.CopyComplete
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\refint\ControleDeGastos.Infra.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.pdb
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ControleDeGastos.Infra.genruntimeconfig.cache
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infra\obj\Debug\net6.0\ref\ControleDeGastos.Infra.dll

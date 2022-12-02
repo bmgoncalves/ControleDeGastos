@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bY2SsAbyBrdJNHfKRy3Vg2Rvb3WyGW0uC0QPUMaq6b4=",
+  "Source": "ControleDeGastos.Service.WebApi",
+  "BasePath": "_content/ControleDeGastos.Service.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

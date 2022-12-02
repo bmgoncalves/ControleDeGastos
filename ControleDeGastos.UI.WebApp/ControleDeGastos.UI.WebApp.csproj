@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>a427cc91-a624-4688-9681-787cf3234c2f</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Build.Tasks.Core" Version="17.4.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Financial\Data\" />
+    <Folder Include="Areas\Financial\Models\" />
+    <Folder Include="wwwroot\main\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControleDeGastos.ApplicationCore\ControleDeGastos.ApplicationCore.csproj" />
+  </ItemGroup>
+
+</Project>
