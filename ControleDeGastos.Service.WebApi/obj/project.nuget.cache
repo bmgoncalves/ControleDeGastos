@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y2hnDaXcaIEGa35Mz9ypqYiUa8++TFHGT3Nr42gCL/VrtVTKF0IGBjbVCWfTiT7IreW797ZL1p7i0BNFWGuqEg==",
+  "dgSpecHash": "32Pn+Ahw5kSMwTR7/1vt0vbjWHIy2MnjjtYGYmghVJcmS/Y2CyzGveBQa1I7V3adWZ5NXK2irJpzlv2DaQ+3DQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.Service.WebApi\\ControleDeGastos.Service.WebApi.csproj",
+  "projectFilePath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.Service.WebApi\\ControleDeGastos.Service.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Mendes\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Bruno Mendes\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

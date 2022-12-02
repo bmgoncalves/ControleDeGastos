@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mjYWzFqSLWWANSLIOGZ8O5YiQ4viin6AkrooJg9fvunq5rCbCiDSSqhiaGwzvV6lBAiY+gZw0HvNFjQbG+qZQA==",
+  "dgSpecHash": "ebRoA5lwyecF4kQin2b9+h7L50138caQbvBAUb/OEKIy0qkVzknzOjiayzzvr9+g3eAca7/FJ371nWVmj9KRAg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.ApplicationCore\\ControleDeGastos.ApplicationCore.csproj",
+  "projectFilePath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.ApplicationCore\\ControleDeGastos.ApplicationCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Mendes\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Bruno Mendes\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

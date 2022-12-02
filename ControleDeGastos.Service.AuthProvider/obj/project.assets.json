@@ -302,11 +302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.Service.AuthProvider\\ControleDeGastos.Service.AuthProvider.csproj",
+      "projectUniqueName": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.Service.AuthProvider\\ControleDeGastos.Service.AuthProvider.csproj",
       "projectName": "ControleDeGastos.Service.AuthProvider",
-      "projectPath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.Service.AuthProvider\\ControleDeGastos.Service.AuthProvider.csproj",
+      "projectPath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.Service.AuthProvider\\ControleDeGastos.Service.AuthProvider.csproj",
       "packagesPath": "C:\\Users\\Bruno Mendes\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.Service.AuthProvider\\obj\\",
+      "outputPath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.Service.AuthProvider\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

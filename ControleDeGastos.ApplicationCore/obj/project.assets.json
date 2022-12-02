@@ -564,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.ApplicationCore\\ControleDeGastos.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.ApplicationCore\\ControleDeGastos.ApplicationCore.csproj",
       "projectName": "ControleDeGastos.ApplicationCore",
-      "projectPath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.ApplicationCore\\ControleDeGastos.ApplicationCore.csproj",
+      "projectPath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.ApplicationCore\\ControleDeGastos.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\Bruno Mendes\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.ApplicationCore\\obj\\",
+      "outputPath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YYLrtm8BftND6zxE2j4zNoO5nN1OVUC0/0Ke0q4KgrEFGnCU8gn37mKVjpwT9VXvDvF7+pzcXRQ5oo0KSHujTg==",
+  "dgSpecHash": "1pTGPpxne46jYUANpLHv87baTgD33Qo9Mmn8HMiVnLDwD5YqeZ0sF5UG25rbnEB4BWgiR/m46ljGTG6IytTjow==",
   "success": true,
-  "projectFilePath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.Infra\\ControleDeGastos.Infra.csproj",
+  "projectFilePath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.Infra\\ControleDeGastos.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Mendes\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Bruno Mendes\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vlyNH3lzW4vwMW+TXQ7EWC9l5vN2r4fV6uQicQeyjBKiuVAXfOH6TLt8nKOxXaPl63oN0CNL0pmTLKlXOW4gKA==",
+  "dgSpecHash": "Us+xBYyeDi2wBNQKZIr9dR47/MztctjGVtlyNkest/DUYgwKpeWJJjcwSQecHvj6yc3JqyYGzevaOZlr0D1TTQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\ControleDeGastos.UI.WebApp.csproj",
+  "projectFilePath": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\ControleDeGastos.UI.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Mendes\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Bruno Mendes\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
