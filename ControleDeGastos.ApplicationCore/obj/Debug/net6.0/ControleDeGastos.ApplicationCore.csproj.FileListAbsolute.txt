@@ -10,3 +10,15 @@ C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.Application
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\refint\ControleDeGastos.ApplicationCore.dll
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ControleDeGastos.ApplicationCore.pdb
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ref\ControleDeGastos.ApplicationCore.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\bin\Debug\net6.0\ControleDeGastos.ApplicationCore.deps.json
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\bin\Debug\net6.0\ControleDeGastos.ApplicationCore.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\bin\Debug\net6.0\ControleDeGastos.ApplicationCore.pdb
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ControleDeGastos.ApplicationCore.csproj.AssemblyReference.cache
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ControleDeGastos.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ControleDeGastos.ApplicationCore.AssemblyInfoInputs.cache
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ControleDeGastos.ApplicationCore.AssemblyInfo.cs
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ControleDeGastos.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ControleDeGastos.ApplicationCore.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\refint\ControleDeGastos.ApplicationCore.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ControleDeGastos.ApplicationCore.pdb
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.ApplicationCore\obj\Debug\net6.0\ref\ControleDeGastos.ApplicationCore.dll

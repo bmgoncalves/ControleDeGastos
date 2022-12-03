@@ -1,6 +1,7 @@
 ﻿using ControleDeGastos.ApplicationCore.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using System.Text;
 
 namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
 {
@@ -40,6 +41,38 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
                 return BadRequest("Categoria não localizada, tratar este erro!");
             }
             return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddOrEdit(Category c)
+        {
+            if (ModelState.IsValid)
+            {
+                var client = _httpClientFactory.CreateClient();
+                var jsonContent = JsonConvert.SerializeObject(c);
+                var contentString = new StringContent(jsonContent, Encoding.UTF8, "application/json");
+                var uri = "CategoriesApi";
+                HttpResponseMessage response = new();
+
+                if (c.Id == 0)
+                {
+                    response = await client.PostAsync(uri, contentString);
+                }
+                else
+                {
+                    response = await client.PutAsync(uri, contentString);
+                }
+
+                if (response.IsSuccessStatusCode)
+                {
+                    var result = response.Content.ReadAsStringAsync();
+
+                    return RedirectToAction(nameof(Index));
+                }
+                return View(c);
+
+            }
+            return View(c);
         }
 
 

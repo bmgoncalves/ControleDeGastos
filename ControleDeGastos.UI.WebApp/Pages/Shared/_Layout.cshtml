@@ -2,181 +2,177 @@
 <html lang="pt-br">
 
 <head>
+    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>@ViewData["Title"] - Expenditure Control </title>
-    <link rel="stylesheet" href="~/main/node_modules/mdi/css/materialdesignicons.min.css">
-    <link rel="stylesheet" href="~/main/css/style.css">
-    <link rel="shortcut icon" href="~/main/images/favicon.png" />
+    <title>Star Admin</title>
+    <link rel="stylesheet" href="~/app/node_modules/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/app/node_modules/perfect-scrollbar/dist/" />
+    <link rel="stylesheet" href="~/app/css/style.css" />
+    <link rel="shortcut icon" href="~/app/images/favicon.png" />
 </head>
 
 <body>
-    <div class="body-wrapper">
-        <!-- partial:~/main/partials/_sidebar.html -->
-        <aside class="mdc-persistent-drawer mdc-persistent-drawer--open">
-            <nav class="mdc-persistent-drawer__drawer">
-                <div class="mdc-persistent-drawer__toolbar-spacer">
-                    <a href="~/main/index.html" class="brand-logo">
-                        <img src="~/main/images/logo.svg" alt="logo">
-                    </a>
-                </div>
-                <div class="mdc-list-group">
-                    <nav class="mdc-list mdc-drawer-menu">
-                        <div class="mdc-list-item mdc-drawer-item">
-                            <a class="mdc-drawer-link" href="~/main/index.html">
-                                <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">desktop_mac</i>
-                                Dashboard
+    <div class=" container-scroller">
+        <!-- partial:~/app/partials/_navbar.html -->
+        <nav class="navbar navbar-default col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="bg-white text-center navbar-brand-wrapper">
+                <a class="navbar-brand brand-logo" href="~/app/index.html"><img src="~/app/images/logo_star_black.png" /></a>
+                <a class="navbar-brand brand-logo-mini" href="~/app/index.html"><img src="~/app/images/logo_star_mini.jpg" alt=""></a>
+            </div>
+            <div class="navbar-menu-wrapper d-flex align-items-center">
+                <button class="navbar-toggler navbar-toggler d-none d-lg-block navbar-dark align-self-center mr-3" type="button" data-toggle="minimize">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <form class="form-inline mt-2 mt-md-0 d-none d-lg-block">
+                    <input class="form-control mr-sm-2 search" type="text" placeholder="Search">
+                </form>
+                <ul class="navbar-nav ml-lg-auto d-flex align-items-center flex-row">
+                    <li class="nav-item">
+                        <a class="nav-link profile-pic" href="#"><img class="rounded-circle" src="~/app/images/face.jpg" alt=""></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa fa-th"></i></a>
+                    </li>
+                </ul>
+                <button class="navbar-toggler navbar-dark navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </nav>
+
+        <!-- partial -->
+        <div class="container-fluid">
+            <div class="row row-offcanvas row-offcanvas-right">
+                <!-- partial:~/app/partials/_sidebar.html -->
+                <nav class="bg-white sidebar sidebar-offcanvas" id="sidebar">
+                    <div class="user-info">
+                        <img src="~/app/images/face.jpg" alt="">
+                        <p class="name">Richard V.Welsh</p>
+                        <p class="designation">Manager</p>
+                        <span class="online"></span>
+                    </div>
+                    <ul class="nav">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="~/app/index.html">
+                                <img src="~/app/images/icons/1.png" alt="">
+                                <span class="menu-title">Dashboard</span>
                             </a>
-                        </div>
-                        <div class="mdc-list-item mdc-drawer-item">
-                            <a class="mdc-drawer-link" href="~/main/pages/forms/basic-forms.html">
-                                <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">track_changes</i>
-                                Forms
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/app/pages/widgets.html">
+                                <img src="~/app/images/icons/2.png" alt="">
+                                <span class="menu-title">Widgets</span>
                             </a>
-                        </div>
-                        <div class="mdc-list-item mdc-drawer-item" href="#" data-toggle="expansionPanel" target-panel="ui-sub-menu">
-                            <a class="mdc-drawer-link" href="#">
-                                <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">dashboard</i>
-                                UI Features
-                                <i class="mdc-drawer-arrow material-icons">arrow_drop_down</i>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/app/pages/forms/index.html">
+                                <img src="~/app/images/icons/005-forms.png" alt="">
+                                <span class="menu-title">Forms</span>
                             </a>
-                            <div class="mdc-expansion-panel" id="ui-sub-menu">
-                                <nav class="mdc-list mdc-drawer-submenu">
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/ui-features/buttons.html">
-                                            Buttons
-                                        </a>
-                                    </div>
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/ui-features/typography.html">
-                                            Typography
-                                        </a>
-                                    </div>
-                                </nav>
-                            </div>
-                        </div>
-                        <div class="mdc-list-item mdc-drawer-item">
-                            <a class="mdc-drawer-link" href="~/main/pages/ui-features/tables.html">
-                                <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">grid_on</i>
-                                Tables
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/app/pages/ui-elements/buttons.html">
+                                <img src="~/app/images/icons/4.png" alt="">
+                                <span class="menu-title">Buttons</span>
                             </a>
-                        </div>
-                        <div class="mdc-list-item mdc-drawer-item">
-                            <a class="mdc-drawer-link" href="~/main/pages/charts/chartjs.html">
-                                <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">pie_chart_outlined</i>
-                                Charts
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/app/pages/tables/index.html">
+                                <img src="~/app/images/icons/5.png" alt="">
+                                <span class="menu-title">Tables</span>
                             </a>
-                        </div>
-                        <div class="mdc-list-item mdc-drawer-item" href="#" data-toggle="expansionPanel" target-panel="sample-page-submenu">
-                            <a class="mdc-drawer-link" href="#">
-                                <i class="material-icons mdc-list-item__start-detail mdc-drawer-item-icon" aria-hidden="true">pages</i>
-                                Sample Pages
-                                <i class="mdc-drawer-arrow material-icons">arrow_drop_down</i>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/app/pages/charts/index.html">
+                                <img src="~/app/images/icons/6.png" alt="">
+                                <span class="menu-title">Charts</span>
                             </a>
-                            <div class="mdc-expansion-panel" id="sample-page-submenu">
-                                <nav class="mdc-list mdc-drawer-submenu">
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/samples/blank-page.html">
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/app/pages/icons/index.html">
+                                <img src="~/app/images/icons/7.png" alt="">
+                                <span class="menu-title">Icons</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/app/pages/ui-elements/typography.html">
+                                <img src="~/app/images/icons/8.png" alt="">
+                                <span class="menu-title">Typography</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="collapse" href="#sample-pages" aria-expanded="false" aria-controls="sample-pages">
+                                <img src="~/app/images/icons/9.png" alt="">
+                                <span class="menu-title">Sample Pages<i class="fa fa-sort-down"></i></span>
+                            </a>
+                            <div class="collapse" id="sample-pages">
+                                <ul class="nav flex-column sub-menu">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="~/app/pages/samples/blank_page.html">
                                             Blank Page
                                         </a>
-                                    </div>
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/samples/403.html">
-                                            403
-                                        </a>
-                                    </div>
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/samples/404.html">
-                                            404
-                                        </a>
-                                    </div>
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/samples/500.html">
-                                            500
-                                        </a>
-                                    </div>
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/samples/505.html">
-                                            505
-                                        </a>
-                                    </div>
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/samples/login.html">
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="~/app/pages/samples/login.html">
                                             Login
                                         </a>
-                                    </div>
-                                    <div class="mdc-list-item mdc-drawer-item">
-                                        <a class="mdc-drawer-link" href="~/main/pages/samples/register.html">
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="~/app/pages/samples/register.html">
                                             Register
                                         </a>
-                                    </div>
-
-                                </nav>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="~/app/pages/samples/404.html">
+                                            404
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="~/app/pages/samples/500.html">
+                                            500
+                                        </a>
+                                    </li>
+                                </ul>
                             </div>
-                        </div>
-                        
-                    </nav>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <img src="~/app/images/icons/10.png" alt="">
+                                <span class="menu-title">Settings</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <!-- partial -->
+                <div class="content-wrapper">
+                    @RenderBody()
+
                 </div>
-            </nav>
-        </aside>
-        <!-- partial -->
-        <!-- partial:~/main/partials/_navbar.html -->
-        <header class="mdc-toolbar mdc-elevation--z4 mdc-toolbar--fixed">
-            <div class="mdc-toolbar__row">
-                <section class="mdc-toolbar__section mdc-toolbar__section--align-start">
-                    <a href="#" class="menu-toggler material-icons mdc-toolbar__menu-icon">menu</a>
-                    <span class="mdc-toolbar__input">
-                        <div class="mdc-text-field">
-                            <input type="text" class="mdc-text-field__input" id="css-only-text-field-box" placeholder="Search anything...">
-                        </div>
-                    </span>
-                </section>
-                <section class="mdc-toolbar__section mdc-toolbar__section--align-end" role="toolbar">
-                    <div class="mdc-menu-anchor mr-1">
-                        <a href="#" class="mdc-toolbar__icon toggle mdc-ripple-surface" data-toggle="dropdown" toggle-dropdown="logout-menu" data-mdc-auto-init="MDCRipple">
-                            <i class="material-icons">more_vert</i>
-                        </a>
-                        <div class="mdc-simple-menu mdc-simple-menu--right" tabindex="-1" id="logout-menu">
-                            <ul class="mdc-simple-menu__items mdc-list" role="menu" aria-hidden="true">
-                                <li class="mdc-list-item" role="menuitem" tabindex="0">
-                                    <i class="material-icons mdc-theme--primary mr-1">settings</i>
-                                    Settings
-                                </li>
-                                <li class="mdc-list-item" role="menuitem" tabindex="0">
-                                    <i class="material-icons mdc-theme--primary mr-1">power_settings_new</i>
-                                    Logout
-                                </li>
-                            </ul>
-                        </div>
+                <!-- partial:~/app/partials/_footer.html -->
+                <footer class="footer">
+                    <div class="container-fluid clearfix">
+                        <span class="float-right">
+                            <a href="#">Star Admin</a> &copy; 2017
+                        </span>
                     </div>
-                </section>
+                </footer>
+
+                <!-- partial -->
             </div>
-        </header>
-        <div class="page-wrapper mdc-toolbar-fixed-adjust">
-            <main class="content-wrapper">
-                <div class="mdc-layout-grid">
-
-                @RenderBody()
-                </div>
-            </main>
-            <footer>
-                <div class="mdc-layout-grid">
-                    <div class="mdc-layout-grid__inner">
-                        <div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-6">
-                            <span class="text-muted">Copyright © @(DateTime.Now.Year.ToString()) <a class="text-green" href="https://www.linkedin.com/in/bmendesgonca" target="_blank">Created by Bruno Gonçalves</a>. All rights reserved.</span>
-                        </div>
-                    </div>
-                </div>
-            </footer>
         </div>
-
     </div>
 
-    <script src="~/main/node_modules/material-components-web/dist/material-components-web.min.js"></script>
-    <script src="~/main/node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="~/main/js/misc.js"></script>
-    <script src="~/main/js/material.js"></script>
+    <script src="~/app/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="~/app/node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="~/app/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/app/node_modules/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.min.js"></script>
+    <script src="~/app/js/off-canvas.js"></script>
+    <script src="~/app/js/hoverable-collapse.js"></script>
+    <script src="~/app/js/misc.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 
 </html>

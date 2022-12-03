@@ -16,5 +16,20 @@
             }
             return 0;
         }
+
+        public static string GetDescriptionTypeTransaction(int type)
+        {
+            string descricao = string.Empty;
+
+            foreach (var p in typeof(TypeTransactionConstant).GetFields())
+            {
+                if (Convert.ToInt32(p.GetValue(null)) == type)
+                {
+                    descricao = p.Name;
+                }
+            }
+            return descricao;
+        }
+        
     }
 }
