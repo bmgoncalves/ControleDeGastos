@@ -1,178 +1,203 @@
-﻿<!DOCTYPE html>
+﻿
+<!doctype html>
 <html lang="pt-br">
-
-<head>
-    <!-- Required meta tags -->
+  <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Star Admin</title>
-    <link rel="stylesheet" href="~/app/node_modules/font-awesome/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="~/app/node_modules/perfect-scrollbar/dist/" />
-    <link rel="stylesheet" href="~/app/css/style.css" />
-    <link rel="shortcut icon" href="~/app/images/favicon.png" />
-</head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.104.2">
+    <title>Dashboard Template · Bootstrap v5.2</title>
 
-<body>
-    <div class=" container-scroller">
-        <!-- partial:~/app/partials/_navbar.html -->
-        <nav class="navbar navbar-default col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
-            <div class="bg-white text-center navbar-brand-wrapper">
-                <a class="navbar-brand brand-logo" href="~/app/index.html"><img src="~/app/images/logo_star_black.png" /></a>
-                <a class="navbar-brand brand-logo-mini" href="~/app/index.html"><img src="~/app/images/logo_star_mini.jpg" alt=""></a>
-            </div>
-            <div class="navbar-menu-wrapper d-flex align-items-center">
-                <button class="navbar-toggler navbar-toggler d-none d-lg-block navbar-dark align-self-center mr-3" type="button" data-toggle="minimize">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <form class="form-inline mt-2 mt-md-0 d-none d-lg-block">
-                    <input class="form-control mr-sm-2 search" type="text" placeholder="Search">
-                </form>
-                <ul class="navbar-nav ml-lg-auto d-flex align-items-center flex-row">
-                    <li class="nav-item">
-                        <a class="nav-link profile-pic" href="#"><img class="rounded-circle" src="~/app/images/face.jpg" alt=""></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-th"></i></a>
-                    </li>
-                </ul>
-                <button class="navbar-toggler navbar-dark navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-            </div>
-        </nav>
+    <link rel="canonical" href="https://getbootstrap.com~/main/docs/5.2/examples/dashboard/">
 
-        <!-- partial -->
-        <div class="container-fluid">
-            <div class="row row-offcanvas row-offcanvas-right">
-                <!-- partial:~/app/partials/_sidebar.html -->
-                <nav class="bg-white sidebar sidebar-offcanvas" id="sidebar">
-                    <div class="user-info">
-                        <img src="~/app/images/face.jpg" alt="">
-                        <p class="name">Richard V.Welsh</p>
-                        <p class="designation">Manager</p>
-                        <span class="online"></span>
-                    </div>
-                    <ul class="nav">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="~/app/index.html">
-                                <img src="~/app/images/icons/1.png" alt="">
-                                <span class="menu-title">Dashboard</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="~/app/pages/widgets.html">
-                                <img src="~/app/images/icons/2.png" alt="">
-                                <span class="menu-title">Widgets</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="~/app/pages/forms/index.html">
-                                <img src="~/app/images/icons/005-forms.png" alt="">
-                                <span class="menu-title">Forms</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="~/app/pages/ui-elements/buttons.html">
-                                <img src="~/app/images/icons/4.png" alt="">
-                                <span class="menu-title">Buttons</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="~/app/pages/tables/index.html">
-                                <img src="~/app/images/icons/5.png" alt="">
-                                <span class="menu-title">Tables</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="~/app/pages/charts/index.html">
-                                <img src="~/app/images/icons/6.png" alt="">
-                                <span class="menu-title">Charts</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="~/app/pages/icons/index.html">
-                                <img src="~/app/images/icons/7.png" alt="">
-                                <span class="menu-title">Icons</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="~/app/pages/ui-elements/typography.html">
-                                <img src="~/app/images/icons/8.png" alt="">
-                                <span class="menu-title">Typography</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="collapse" href="#sample-pages" aria-expanded="false" aria-controls="sample-pages">
-                                <img src="~/app/images/icons/9.png" alt="">
-                                <span class="menu-title">Sample Pages<i class="fa fa-sort-down"></i></span>
-                            </a>
-                            <div class="collapse" id="sample-pages">
-                                <ul class="nav flex-column sub-menu">
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="~/app/pages/samples/blank_page.html">
-                                            Blank Page
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="~/app/pages/samples/login.html">
-                                            Login
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="~/app/pages/samples/register.html">
-                                            Register
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="~/app/pages/samples/404.html">
-                                            404
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="~/app/pages/samples/500.html">
-                                            500
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">
-                                <img src="~/app/images/icons/10.png" alt="">
-                                <span class="menu-title">Settings</span>
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
+    
 
-                <!-- partial -->
-                <div class="content-wrapper">
-                    @RenderBody()
+    
 
-                </div>
-                <!-- partial:~/app/partials/_footer.html -->
-                <footer class="footer">
-                    <div class="container-fluid clearfix">
-                        <span class="float-right">
-                            <a href="#">Star Admin</a> &copy; 2017
-                        </span>
-                    </div>
-                </footer>
+<link href="~/main/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
-                <!-- partial -->
-            </div>
-        </div>
+    <!-- Favicons -->
+<link rel="apple-touch-icon" href="~/main/docs/5.2/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="~/main/docs/5.2/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="~/main/docs/5.2/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="mask-icon" href="~/main/docs/5.2/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
+<link rel="icon" href="~/main/docs/5.2/assets/img/favicons/favicon.ico">
+<meta name="theme-color" content="#712cf9">
+
+
+    <script type="text/javascript" src="https://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=QAo0txDJR-IZIFL9Ry9Q0wAEbGG1yOXHCcMR3B0ZnXuCE987jkkz6gon38KiG70zNSEog6BPXTj0Kmmilr95jvIiZ6YpbcGyTbBgDBDFnZo" charset="UTF-8"></script><style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @@media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="~/main/dist/css/dashboard.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+  <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="#">Company name</a>
+  <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <input class="form-control form-control-dark w-100 rounded-0 border-0" type="text" placeholder="Search" aria-label="Search">
+  <div class="navbar-nav">
+    <div class="nav-item text-nowrap">
+      <a class="nav-link px-3" href="#">Sign out</a>
     </div>
+  </div>
+</header>
 
-    <script src="~/app/node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="~/app/node_modules/popper.js/dist/umd/popper.min.js"></script>
-    <script src="~/app/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="~/app/node_modules/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.min.js"></script>
-    <script src="~/app/js/off-canvas.js"></script>
-    <script src="~/app/js/hoverable-collapse.js"></script>
-    <script src="~/app/js/misc.js"></script>
+<div class="container-fluid">
+  <div class="row">
+    <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse" hidden>
+      <div class="position-sticky pt-3 sidebar-sticky">
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">
+              <span data-feather="home" class="align-text-bottom"></span>
+              Dashboard
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file" class="align-text-bottom"></span>
+              Orders
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="shopping-cart" class="align-text-bottom"></span>
+              Products
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="users" class="align-text-bottom"></span>
+              Customers
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="bar-chart-2" class="align-text-bottom"></span>
+              Reports
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="layers" class="align-text-bottom"></span>
+              Integrations
+            </a>
+          </li>
+        </ul>
+
+        <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted text-uppercase">
+          <span>Saved reports</span>
+          <a class="link-secondary" href="#" aria-label="Add a new report">
+            <span data-feather="plus-circle" class="align-text-bottom"></span>
+          </a>
+        </h6>
+        <ul class="nav flex-column mb-2">
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file-text" class="align-text-bottom"></span>
+              Current month
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file-text" class="align-text-bottom"></span>
+              Last quarter
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file-text" class="align-text-bottom"></span>
+              Social engagement
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file-text" class="align-text-bottom"></span>
+              Year-end sale
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+        
+      </div>
+      @RenderBody()
+     
+
+      
+    </main>
+  </div>
+</div>
+
+
+    <script src="~/main/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
+      <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script>
+      <script src="~/main/dist/js/dashboard.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 
-</body>
-
+  </body>
 </html>
+
+
+

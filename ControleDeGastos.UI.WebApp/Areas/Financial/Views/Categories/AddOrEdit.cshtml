@@ -13,9 +13,10 @@
         <div class="card">
             <div class="card-body">
                 <h5 class="card-title mb-4">Information</h5>
+                <div asp-validation-summary="ModelOnly"></div>
                 <form asp-controller="Categories" asp-action="AddOrEdit" method="post">
-                    <div asp-validation-summary="ModelOnly"></div>
-                    @Html.HiddenFor(c => c.Id)
+                    <input asp-for="Id" class="form-control p-input" hidden readonly>
+
                     <div class="row">
                         <div class="form-group col-md-3">
                             <label asp-for="Description"></label>
@@ -42,73 +43,3 @@
     </div>
 </div>
 
-<div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-12" hidden>
-    <div class="mdc-card">
-        <section class="mdc-card__primary">
-            <h1 class="mdc-card__title mdc-card__title--large">Category</h1>
-        </section>
-        <section class="mdc-card__supporting-text">
-            <form asp-action="@(Url.Action("AddOrEdit","Categories"))" method="post">
-
-                @Html.HiddenFor(c => c.Id)
-
-                <div class="mdc-layout-grid__inner">
-                    <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4-desktop">
-                        <div class="template-demo">
-                            <div id="demo-tf-box-wrapper">
-                                <div id="tf-box-example" class="mdc-text-field mdc-text-field--box w-100">
-                                    <input asp-for="Description" required pattern=".{8,}" class="mdc-text-field__input" aria-controls="name-validation-message">
-                                    <label asp-for="Description" class="mdc-text-field__label">Description</label>
-                                    <div class="mdc-text-field__bottom-line"></div>
-                                </div>
-                                <p class="mdc-text-field-helper-text mdc-text-field-helper-text--validation-msg" id="name-validation-msg">
-                                    Must be at least 8 characters
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4-desktop">
-                        <div class="template-demo">
-                            <div id="demo-tf-box-wrapper">
-                                <div id="tf-box-example" class="mdc-text-field mdc-text-field--box w-100">
-                                    <input asp-for="Type" required pattern=".{8,}" class="mdc-text-field__input" aria-controls="name-validation-message">
-                                    <label asp-for="Type" class="mdc-text-field__label">Type</label>
-                                    <div class="mdc-text-field__bottom-line"></div>
-                                </div>
-                                <p class="mdc-text-field-helper-text mdc-text-field-helper-text--validation-msg" id="name-validation-msg">
-                                    Must be at least 8 characters
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                </div>
-                <div class="mdc-layout-grid__inner">
-                    <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4-desktop">
-                        <div class="template-demo">
-                            <div id="demo-tf-box-wrapper">
-                                <div id="tf-box-example" class="w-100">
-                                    <button type="submit" class="mdc-button mdc-button--raised">
-                                        Save
-                                    </button>
-                                    <a href="@(Url.Action("Index","Categories"))" class="mdc-button mdc-button--raised secondary-filled-button">
-                                        Cancel
-                                    </a>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
-
-
-
-
-                </div>
-            </form>
-        </section>
-    </div>
-</div>

@@ -510,3 +510,4 @@ C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\r
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\ControleDeGastos.UI.WebApp.pdb
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\ControleDeGastos.UI.WebApp.genruntimeconfig.cache
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\ref\ControleDeGastos.UI.WebApp.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout - Copy.cshtml.rz.scp.css
