@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ewbbgo5QA6AdOuRMw/uNOk+ztG+73qaTgQKbBMf44g8=",
+  "Hash": "ElVFYLTGNq4kN9SNYHG52XWfAjYGHZU63e8ROa2a7l8=",
   "Source": "ControleDeGastos.UI.WebApp",
   "BasePath": "_content/ControleDeGastos.UI.WebApp",
   "Mode": "Default",
@@ -1649,6 +1649,23 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\dashboard.rtl.css"
     },
     {
+      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\jquery-confirm.min.css",
+      "SourceId": "ControleDeGastos.UI.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "BasePath": "_content/ControleDeGastos.UI.WebApp",
+      "RelativePath": "main/dist/css/jquery-confirm.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main\\dist\\css\\jquery-confirm.min.css"
+    },
+    {
       "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
@@ -1868,6 +1885,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\dashboard.js"
+    },
+    {
+      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\delete.js",
+      "SourceId": "ControleDeGastos.UI.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "BasePath": "_content/ControleDeGastos.UI.WebApp",
+      "RelativePath": "main/dist/js/delete.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main\\dist\\js\\delete.js"
+    },
+    {
+      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\jquery-confirm.min.js",
+      "SourceId": "ControleDeGastos.UI.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "BasePath": "_content/ControleDeGastos.UI.WebApp",
+      "RelativePath": "main/dist/js/jquery-confirm.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main\\dist\\js\\jquery-confirm.min.js"
     },
     {
       "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\alert.js",

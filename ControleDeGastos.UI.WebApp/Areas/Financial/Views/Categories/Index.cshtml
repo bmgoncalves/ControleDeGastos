@@ -14,15 +14,23 @@
         <div class="card">
             <div class="card-body">
                 <h5 class="card-title mb-4">Categories</h5>
-                <a href="@(Url.Action("AddOrEdit","Categories"))" class="btn btn-primary mr-2"><i class="fa fa-plus"></i> Add New</a>
+                <a href="@(Url.Action("AddOrEdit","Categories"))" class="btn btn-primary mr-2">Add New</a>
                 <div class="table-responsive">
+                    <div class="alert alert-danger div-alert alert-dismissible fade show mt-2" role="alert" hidden>
+                        <strong>Erro!</strong> <span class="spanErro"></span>
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                    <div class="alert alert-success div-alert-success alert-dismissible fade show mt-2" role="alert" hidden>
+                        <strong>Success!</strong> Category deleted!
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
                     <table class="table center-aligned-table table-hover">
                         <thead>
-                            <tr class="text-primary">
-                                <th>Id</th>
-                                <th>Category</th>
-                                <th>Type</th>
-                                <th>Actions</th>
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">Category</th>
+                                <th scope="col">Type</th>
+                                <th scope="col">Actions</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -32,24 +40,24 @@
                                 {
 
                                     <tr>
-                                        <td>@c.Id</td>
+                                        <th scope="row">@c.Id</th>
                                         <td>@c.Description</td>
                                         <td>@(TypeTransactionConstant.GetDescriptionTypeTransaction(c.Type))</td>
                                         <td>
-                                            <a href="@(Url.Action("AddOrEdit","Categories", new { id=c.Id }))"  class="btn btn-primary btn-sm">Edit</a>
-                                            <a href="#" class="btn btn-danger btn-sm">Remove</a>
+                                            <a href="@(Url.Action("AddOrEdit","Categories", new { id=c.Id }))" class="btn btn-primary btn-sm">Edit</a>
+                                            <a href="#" data-url="@(Url.Action("Delete","Categories", new {id=c.Id}))" class="btn btn-danger btn-remove btn-sm">Remove</a>
                                         </td>
-                                       
+
                                     </tr>
                                 }
                             }
                         </tbody>
                     </table>
+
                 </div>
             </div>
         </div>
     </div>
 </div>
-
 
 

@@ -55,18 +55,12 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
                 HttpResponseMessage response = new();
 
                 if (c.Id == 0)
-                {
                     response = await client.PostAsync(uri, contentString);
-                }
                 else
-                {
                     response = await client.PutAsync(uri, contentString);
-                }
 
                 if (response.IsSuccessStatusCode)
                 {
-                    var result = response.Content.ReadAsStringAsync();
-
                     return RedirectToAction(nameof(Index));
                 }
                 return View(c);
@@ -75,6 +69,30 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
             return View(c);
         }
 
+        public async Task<IActionResult> Delete(int id)
+        {
+            try
+            {
+                if (id == 0)
+                {
+                    throw new Exception($"Category {id} not found");
+                }
+
+                var client = _httpClientFactory.CreateClient();
+                var response = await client.DeleteAsync($"CategoriesApi?id={id}");
+                if (response.IsSuccessStatusCode)
+                {
+                    return Ok();
+                }
+                
+                var erro = await response.Content.ReadAsStringAsync();
+                throw new Exception(erro);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
 
     }
 }

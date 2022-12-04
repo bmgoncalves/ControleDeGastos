@@ -3,6 +3,7 @@ using ControleDeGastos.ApplicationCore.Entities;
 using ControleDeGastos.ApplicationCore.Models;
 using ControleDeGastos.Infra.Repositories.Interface;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace ControleDeGastos.Service.WebApi.Controllers
 {
@@ -62,8 +63,19 @@ namespace ControleDeGastos.Service.WebApi.Controllers
         [HttpDelete]
         public IActionResult Delete(int id)
         {
-            _repoCategories.Delete(id);
-            return Ok();
+            try
+            {
+                if (!_repoCategories.Exists(id))
+                {
+                    throw new Exception("Category not found!");
+                }
+                _repoCategories.Delete(id);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpGet("{id}")]
