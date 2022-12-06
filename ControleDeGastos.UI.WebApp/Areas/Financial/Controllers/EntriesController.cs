@@ -1,10 +1,12 @@
 ﻿using ControleDeGastos.ApplicationCore.Entities;
-using ControleDeGastos.ApplicationCore.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Build.Tasks.Deployment.Bootstrapper;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Newtonsoft.Json;
+using System.Text;
 
 namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
 {
+    [Area("Financial")]
     public class EntriesController : Controller
     {
         private readonly IHttpClientFactory _httpClientFactory;
@@ -14,32 +16,81 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
             _httpClientFactory = httpClientFactory;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        public async Task<IActionResult> AddOrEdit(int id)
+        public async Task<IActionResult> Index()
         {
             var client = _httpClientFactory.CreateClient();
-
-            //Product product = null;
-            HttpResponseMessage response = await client.GetAsync($"api/entries/{id}");
+            var response = await client.GetAsync("EntriesApi");
             if (response.IsSuccessStatusCode)
             {
-                var e = await response.Content.ReadFromJsonAsync<Entries>();
+                List<Entries> lista = await response.Content.ReadFromJsonAsync<List<Entries>>();
+                return View(lista);
             }
-            //return product;
-
-
             return View();
         }
 
         [HttpPost]
-        public IActionResult AddOrEdit(EntriesViewModel model)
+        public async Task<IActionResult> AddOrEdit(Entries e)
         {
-            return View();
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    var client = _httpClientFactory.CreateClient();
+                    HttpResponseMessage response = new();
+                    var jsonContent = JsonConvert.SerializeObject(e);
+                    var contentString = new StringContent(jsonContent, Encoding.UTF8, "application/json");
+                    var uri = "EntriesApi";
 
+                    if (e.Id == 0)
+                        response = await client.PostAsync(uri, contentString);
+                    else
+                        response = await client.PutAsync(uri, contentString);
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        return RedirectToAction(nameof(Index));
+                    }
+                    var erro = await response.Content.ReadAsStringAsync();
+                    return BadRequest(erro);
+
+                }
+                return BadRequest(ModelState);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
+        public async Task<IActionResult> AddOrEdit(int? id)
+        {
+            var client = _httpClientFactory.CreateClient();
+            var response = await client.GetAsync($"CategoriesApi");
+            if (response.IsSuccessStatusCode)
+            {
+                List<Category> listaCategorias = await response.Content.ReadFromJsonAsync<List<Category>>();
+                if (listaCategorias != null)
+                {
+                    ViewBag.Categories = listaCategorias.OrderBy(c => c.Description).ToList().Select(c => new SelectListItem(c.Description, c.Id.ToString()));
+                }
+            }
+
+            id ??= 0;
+            if (id == 0)
+            {
+                return View();
+            }
+            response = await client.GetAsync($"EntriesApi?id={id}");
+            if (response.IsSuccessStatusCode)
+            {
+                var e = await response.Content.ReadFromJsonAsync<Entries>();
+                if (e != null)
+                {
+                    return View(e);
+                }
+            }
+            return View();
+        }
+
+
     }
 }

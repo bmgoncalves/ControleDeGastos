@@ -9,16 +9,18 @@ namespace ControleDeGastos.ApplicationCore.Entities
         [Key]
         public int Id { get; set; }
 
-        public DateTime DateTransaction { get; set; } = DateTime.Now;
+        [Required]
+        public string Description { get; set; } = string.Empty;
 
-        [Required(ErrorMessage ="Informe o valor")]
-        public double Value { get; set; }
+        [Required]
+        public double Value { get; set; } = 0;
 
         [ForeignKey("Categories")]
         [DisplayName("Category")]
         public int CategoryId { get; set; }
 
         public int Recurrence { get; set; }
+        public DateTime DateTransaction { get; set; } = DateTime.Now;
 
         public virtual Category? Categories { get; set; }
 

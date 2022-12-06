@@ -510,3 +510,17 @@ C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\r
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\ControleDeGastos.UI.WebApp.pdb
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\ControleDeGastos.UI.WebApp.genruntimeconfig.cache
 C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\obj\Debug\net6.0\ref\ControleDeGastos.UI.WebApp.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\ControleDeGastos.Infra.dll
+C:\dev\portifolio\ControleDeGastos\ControleDeGastos.UI.WebApp\bin\Debug\net6.0\ControleDeGastos.Infra.pdb

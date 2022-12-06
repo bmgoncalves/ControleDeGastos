@@ -71,27 +71,15 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
 
         public async Task<IActionResult> Delete(int id)
         {
-            try
+            var client = _httpClientFactory.CreateClient();
+            var response = await client.DeleteAsync($"CategoriesApi?id={id}");
+            if (response.IsSuccessStatusCode)
             {
-                if (id == 0)
-                {
-                    throw new Exception($"Category {id} not found");
-                }
+                return Ok();
+            }
 
-                var client = _httpClientFactory.CreateClient();
-                var response = await client.DeleteAsync($"CategoriesApi?id={id}");
-                if (response.IsSuccessStatusCode)
-                {
-                    return Ok();
-                }
-                
-                var erro = await response.Content.ReadAsStringAsync();
-                throw new Exception(erro);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            var erro = await response.Content.ReadAsStringAsync();
+            return BadRequest(erro);
         }
 
     }

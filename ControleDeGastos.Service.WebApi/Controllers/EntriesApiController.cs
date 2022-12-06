@@ -1,8 +1,9 @@
 ﻿using AutoMapper;
 using ControleDeGastos.ApplicationCore.Entities;
-using ControleDeGastos.ApplicationCore.Models;
 using ControleDeGastos.Infra.Repositories.Interface;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using System.Text;
 
 namespace ControleDeGastos.Service.WebApi.Controllers
 {
@@ -24,15 +25,14 @@ namespace ControleDeGastos.Service.WebApi.Controllers
 
 
         [HttpPost]
-        public IActionResult Add(EntriesViewModel model)
+        public IActionResult Add(Entries e)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    var entry = _mapper.Map<Entries>(model);
-                    _repoEntries.Add(entry);
-                    return Created(string.Empty, entry);
+                    _repoEntries.Add(e);
+                    return Created(string.Empty, e);
                 }
                 return BadRequest(ModelState);
             }
@@ -69,7 +69,7 @@ namespace ControleDeGastos.Service.WebApi.Controllers
             return Ok();
         }
 
-        [HttpGet]
+        [HttpGet("{id}")]
         public IActionResult GetPorId(int id)
         {
             var e = _repoEntries.GetById(id);
@@ -78,6 +78,13 @@ namespace ControleDeGastos.Service.WebApi.Controllers
                 return Ok(e);
             }
             return NotFound();
+        }
+
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var lista = _repoEntries.GetAll();
+            return Ok(lista);
         }
 
 

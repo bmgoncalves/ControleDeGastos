@@ -9,9 +9,7 @@ namespace ControleDeGastos.Service.WebApi.Mapping
     {
         public MappingProfile()
         {
-            CreateMap<EntriesViewModel, Entries>()
-                
-                .ReverseMap();
+            //CreateMap<EntriesViewModel, Entries>().ReverseMap();
             CreateMap<CategoryViewModel, Category>()
                     .ReverseMap();  
         }

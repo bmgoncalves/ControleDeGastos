@@ -9,8 +9,8 @@ namespace ControleDeGastos.Infra.Repositories.Interface
         void Delete(int id);
         bool Exists(int id);   
         Entries GetById(int id);
-        List<Entries> GetAll();
-        List<Entries> GetByDate(DateTime d); 
+        IEnumerable<Entries> GetAll();
+        IEnumerable<Entries> GetByDate(DateTime d); 
 
     }
 }

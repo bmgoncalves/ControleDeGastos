@@ -10,6 +10,10 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Build.Tasks.Core" Version="17.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
   </ItemGroup>
@@ -21,6 +25,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ControleDeGastos.ApplicationCore\ControleDeGastos.ApplicationCore.csproj" />
+    <ProjectReference Include="..\ControleDeGastos.Infra\ControleDeGastos.Infra.csproj" />
   </ItemGroup>
 
 </Project>

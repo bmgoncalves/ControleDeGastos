@@ -1,30 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ControleDeGastos.ApplicationCore.Constants
+﻿namespace ControleDeGastos.ApplicationCore.Constants
 {
     public class RecurrentConstant
     {
         /// <summary>
         /// Semanal
         /// </summary>
-        public const int weekly = 1;
+        public const int Weekly = 1;
         /// <summary>
         /// Quinzenal
         /// </summary>
-        public const int fortnightly = 2;
+        public const int Fortnightly = 2;
         /// <summary>
         /// Mensal
         /// </summary>
-        public const int monthly = 3;
+        public const int Monthly = 3;
 
         /// <summary>
         /// Bimestral
         /// </summary>
-        public const int bimonthly = 4;
+        public const int Bimonthly = 4;
+
 
         public static DateTime GetData(string sit)
         {

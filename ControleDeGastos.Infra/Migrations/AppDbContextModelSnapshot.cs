@@ -24,6 +24,7 @@ namespace ControleDeGastos.Infra.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Description")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Type")
@@ -44,6 +45,10 @@ namespace ControleDeGastos.Infra.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<DateTime>("DateTransaction")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Recurrence")

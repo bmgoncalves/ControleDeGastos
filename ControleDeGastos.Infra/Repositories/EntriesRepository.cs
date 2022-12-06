@@ -41,12 +41,12 @@ namespace ControleDeGastos.Infra.Repositories
             return _context.Entries.Where(e => e.Id == id).FirstOrDefault();
         }
 
-        public List<Entries> GetAll()
+        public IEnumerable<Entries> GetAll()
         {
             return _context.Entries.ToList();
         }
 
-        public List<Entries> GetByDate(DateTime d)
+        public IEnumerable<Entries> GetByDate(DateTime d)
         {
             return _context.Entries.Where(e => e.DateTransaction == d).ToList();
         }
