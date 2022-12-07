@@ -54,8 +54,9 @@
             {
                 if (Convert.ToInt32(p.GetValue(null)) == type)
                 {
-                    return Convert.ToInt32(p.Name) switch
+                    return Convert.ToInt32(p.GetValue(null)) switch
                     {
+                        0 => DateTime.Now.AddDays(1),
                         1 => DateTime.Now.AddDays(7),
                         2 => DateTime.Now.AddDays(15),
                         3 => DateTime.Now.AddMonths(1),

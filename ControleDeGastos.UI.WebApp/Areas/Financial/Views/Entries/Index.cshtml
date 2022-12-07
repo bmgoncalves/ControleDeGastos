@@ -28,9 +28,12 @@
                         <th scope="col">#</th>
                         <th scope="col">Description</th>
                         <th scope="col">Value</th>
-                        <th scope="col">Date</th>
+                        <th scope="col">Date Transaction</th>
+                        <th scope="col">Date Payment</th>
+                        <th scope="col">Date Expected</th>
                         <th scope="col">Category</th>
                         <th scope="col">Recurrence</th>
+                        <th scope="col">Status</th>
                         <th scope="col">Actions</th>
                     </tr>
                 </thead>
@@ -45,8 +48,11 @@
                                 <td>@c.Description</td>
                                 <td>@c.Value</td>
                                 <td>@c.DateTransaction</td>
+                                <td>@c.DatePayment</td>
+                                <td>@c.DateExpected</td>
                                 <td>@(c.Categories?.Description)</td>
                                 <td>@(RecurrentConstant.GetDescription(c.Recurrence))</td>
+                                <td>@(StatusEntryConstant.GetDescription(c.Status))</td>
                                 <td>
                                     <a href="@(Url.Action("AddOrEdit","Entries", new { id=c.Id }))" class="btn btn-primary btn-sm">Edit</a>
                                     <a href="#" data-url="@(Url.Action("Delete","Entries", new {id=c.Id}))" class="btn btn-danger btn-remove btn-sm">Remove</a>

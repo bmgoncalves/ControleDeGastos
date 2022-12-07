@@ -22,6 +22,10 @@ namespace ControleDeGastos.ApplicationCore.Entities
         public int Recurrence { get; set; }
         public DateTime DateTransaction { get; set; } = DateTime.Now;
 
+        public DateTime? DatePayment  { get; set; }
+        public DateTime? DateExpected { get; set; }
+        public int Status { get; set; }
+
         public virtual Category? Categories { get; set; }
 
     }

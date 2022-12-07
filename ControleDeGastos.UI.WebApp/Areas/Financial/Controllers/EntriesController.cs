@@ -1,4 +1,5 @@
-﻿using ControleDeGastos.ApplicationCore.Entities;
+﻿using ControleDeGastos.ApplicationCore.Constants;
+using ControleDeGastos.ApplicationCore.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
@@ -37,14 +38,19 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
                 {
                     var client = _httpClientFactory.CreateClient();
                     HttpResponseMessage response = new();
+                    e.DateExpected = RecurrentConstant.GetData(e.Recurrence);
                     var jsonContent = JsonConvert.SerializeObject(e);
                     var contentString = new StringContent(jsonContent, Encoding.UTF8, "application/json");
                     var uri = "EntriesApi";
 
                     if (e.Id == 0)
+                    {
                         response = await client.PostAsync(uri, contentString);
+                    }
                     else
+                    {
                         response = await client.PutAsync(uri, contentString);
+                    }
 
                     if (response.IsSuccessStatusCode)
                     {

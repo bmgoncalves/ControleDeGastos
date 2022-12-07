@@ -4,12 +4,12 @@
     {
         public const int Credit = 1;
         public const int Debt = 2;
-
-        public static int GetTypeTransaction(string type)
+            
+        public static int GetId(string description)
         {
-            foreach (var  field in typeof(TypeTransactionConstant).GetFields())
+            foreach (var field in typeof(TypeTransactionConstant).GetFields())
             {
-                if ((string?)field.GetValue(null) == type)
+                if ((string?)field.GetValue(null) == description)
                 {
                     return Convert.ToInt32(field.Name);
                 }
@@ -22,24 +22,23 @@
             int count = 0;
             foreach (var field in typeof(TypeTransactionConstant).GetFields())
             {
-               count++;
+                count++;
             }
             return count;
         }
 
-        public static string GetDescription(int type)
+        public static string GetDescription(int id)
         {
-            string descricao = string.Empty;
+            string description = string.Empty;
 
             foreach (var p in typeof(TypeTransactionConstant).GetFields())
             {
-                if (Convert.ToInt32(p.GetValue(null)) == type)
+                if (Convert.ToInt32(p.GetValue(null)) == id)
                 {
-                    descricao = p.Name;
+                    description = p.Name;
                 }
             }
-            return descricao;
+            return description;
         }
-        
     }
 }

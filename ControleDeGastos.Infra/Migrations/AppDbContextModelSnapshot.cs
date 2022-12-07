@@ -44,6 +44,12 @@ namespace ControleDeGastos.Infra.Migrations
                     b.Property<int>("CategoryId")
                         .HasColumnType("INTEGER");
 
+                    b.Property<DateTime?>("DateExpected")
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime?>("DatePayment")
+                        .HasColumnType("TEXT");
+
                     b.Property<DateTime>("DateTransaction")
                         .HasColumnType("TEXT");
 
@@ -52,6 +58,9 @@ namespace ControleDeGastos.Infra.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Recurrence")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("Status")
                         .HasColumnType("INTEGER");
 
                     b.Property<double>("Value")
