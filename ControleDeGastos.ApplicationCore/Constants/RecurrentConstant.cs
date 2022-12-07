@@ -2,6 +2,8 @@
 {
     public class RecurrentConstant
     {
+        public const int None = 0;
+
         /// <summary>
         /// Semanal
         /// </summary>
@@ -20,29 +22,53 @@
         /// </summary>
         public const int Bimonthly = 4;
 
-
-        public static DateTime GetData(string sit)
+        public static string GetDescription(int type)
         {
-            foreach (var field in typeof(RecurrentConstant).GetFields())
+            string descricao = string.Empty;
+
+            foreach (var p in typeof(RecurrentConstant).GetFields())
             {
-                if ((string)field.GetValue(null) == sit)
+                if (Convert.ToInt32(p.GetValue(null)) == type)
                 {
-                    switch (Convert.ToInt32(field.Name))
+                    descricao = p.Name;
+                }
+            }
+            return descricao;
+        }
+
+        public static int GetCountItems()
+        {
+            int count = 0;  
+            foreach (var p in typeof(RecurrentConstant).GetFields())
+            {
+                count++;
+            }
+            return count;
+        }
+
+
+        public static DateTime GetData(int type)
+        {
+
+            foreach (var p in typeof(RecurrentConstant).GetFields())
+            {
+                if (Convert.ToInt32(p.GetValue(null)) == type)
+                {
+                    return Convert.ToInt32(p.Name) switch
                     {
-                        case 1:
-                            return DateTime.Now.AddDays(7);
-                        case 2:
-                            return DateTime.Now.AddDays(15);
-                        case 3:
-                            return DateTime.Now.AddMonths(1);
-                        case 4:
-                            return DateTime.Now.AddMonths(6);
-                        default:
-                            return DateTime.Now;
-                    }
+                        1 => DateTime.Now.AddDays(7),
+                        2 => DateTime.Now.AddDays(15),
+                        3 => DateTime.Now.AddMonths(1),
+                        4 => DateTime.Now.AddMonths(6),
+                        _ => DateTime.Now,
+                    };
                 }
             }
             return DateTime.Now;
+
         }
+
+
+
     }
 }

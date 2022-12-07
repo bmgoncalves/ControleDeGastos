@@ -9,7 +9,7 @@
         {
             foreach (var  field in typeof(TypeTransactionConstant).GetFields())
             {
-                if ((string)field.GetValue(null) == type)
+                if ((string?)field.GetValue(null) == type)
                 {
                     return Convert.ToInt32(field.Name);
                 }
@@ -17,7 +17,17 @@
             return 0;
         }
 
-        public static string GetDescriptionTypeTransaction(int type)
+        public static int GetCountItems()
+        {
+            int count = 0;
+            foreach (var field in typeof(TypeTransactionConstant).GetFields())
+            {
+               count++;
+            }
+            return count;
+        }
+
+        public static string GetDescription(int type)
         {
             string descricao = string.Empty;
 

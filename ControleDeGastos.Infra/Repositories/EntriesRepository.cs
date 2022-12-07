@@ -1,5 +1,6 @@
 ﻿using ControleDeGastos.ApplicationCore.Entities;
 using ControleDeGastos.Infra.Repositories.Interface;
+using Microsoft.EntityFrameworkCore;
 
 namespace ControleDeGastos.Infra.Repositories
 {
@@ -38,17 +39,25 @@ namespace ControleDeGastos.Infra.Repositories
 
         public Entries GetById(int id)
         {
-            return _context.Entries.Where(e => e.Id == id).FirstOrDefault();
+            return _context.Entries
+                           .Where(e => e.Id == id)
+                           .Include(c => c.Categories)
+                           .FirstOrDefault();
         }
 
         public IEnumerable<Entries> GetAll()
         {
-            return _context.Entries.ToList();
+            return _context.Entries
+                           .Include(c => c.Categories)
+                           .ToList();
         }
 
         public IEnumerable<Entries> GetByDate(DateTime d)
         {
-            return _context.Entries.Where(e => e.DateTransaction == d).ToList();
+            return _context.Entries
+                           .Where(e => e.DateTransaction == d)
+                           .Include(c => c.Categories)
+                           .ToList();
         }
 
     }

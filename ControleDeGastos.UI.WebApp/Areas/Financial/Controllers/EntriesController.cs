@@ -22,7 +22,7 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
             var response = await client.GetAsync("EntriesApi");
             if (response.IsSuccessStatusCode)
             {
-                List<Entries> lista = await response.Content.ReadFromJsonAsync<List<Entries>>();
+                IEnumerable<Entries>? lista = await response.Content.ReadFromJsonAsync<IEnumerable<Entries>>();
                 return View(lista);
             }
             return View();
@@ -67,7 +67,7 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
             var response = await client.GetAsync($"CategoriesApi");
             if (response.IsSuccessStatusCode)
             {
-                List<Category> listaCategorias = await response.Content.ReadFromJsonAsync<List<Category>>();
+                IEnumerable<Category>? listaCategorias = await response.Content.ReadFromJsonAsync<IEnumerable<Category>>();
                 if (listaCategorias != null)
                 {
                     ViewBag.Categories = listaCategorias.OrderBy(c => c.Description).ToList().Select(c => new SelectListItem(c.Description, c.Id.ToString()));
@@ -79,14 +79,18 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
             {
                 return View();
             }
-            response = await client.GetAsync($"EntriesApi?id={id}");
+            response = await client.GetAsync($"EntriesApi/{id}");
             if (response.IsSuccessStatusCode)
             {
-                var e = await response.Content.ReadFromJsonAsync<Entries>();
+                var json = await response.Content.ReadAsStringAsync();
+                var e = JsonConvert.DeserializeObject<Entries>(json);
+
                 if (e != null)
                 {
                     return View(e);
                 }
+                return RedirectToAction(nameof(Index));
+
             }
             return View();
         }

@@ -23,17 +23,16 @@
                         <label asp-for="Description" class="col-form-label"></label>
                         <input asp-for="Description" class="form-control" />
                     </div>
-                    <select asp-for="Type" class="form-select mb-3" aria-label="Type">
-                        <option selected>Select Type</option>
-                        @for (int i = 0; i < 10; i++)
-                        {
-                            var desc = TypeTransactionConstant.GetDescriptionTypeTransaction(i);
-                            if (!string.IsNullOrEmpty(desc))
+                    <div class="form-group">
+                        <label asp-for="Type" class="col-form-label"></label>
+                        <select asp-for="Type" class="form-select mb-3" aria-label="Type">
+                            <option selected>Select Type</option>
+                            @for (int i = 1; i <= TypeTransactionConstant.GetCountItems(); i++)
                             {
-                                <option value="@i">@desc</option>
+                                <option value="@i">@TypeTransactionConstant.GetDescription(i)</option>
                             }
-                        }
-                    </select>
+                        </select>
+                    </div>
 
                     <div class="row">
                         <div class="form-group col-md-12">

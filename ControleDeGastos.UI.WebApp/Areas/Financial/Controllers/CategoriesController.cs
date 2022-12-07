@@ -20,7 +20,7 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
             var response = await client.GetAsync($"CategoriesApi");
             if (response.IsSuccessStatusCode)
             {
-                List<Category> listaCategorias = await response.Content.ReadFromJsonAsync<List<Category>>();
+                IEnumerable<Category>? listaCategorias = await response.Content.ReadFromJsonAsync<IEnumerable<Category>>();
                 return View(listaCategorias);
             }
             return View();

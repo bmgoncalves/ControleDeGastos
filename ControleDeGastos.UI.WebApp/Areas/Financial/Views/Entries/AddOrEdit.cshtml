@@ -22,14 +22,24 @@
                     <div class="form-group">
                         <label asp-for="Description" class="col-form-label"></label>
                         <input asp-for="Description" class="form-control" />
-                        
+
                     </div>
                     <div class="form-group">
                         <label asp-for="Value" class="col-form-label"></label>
                         <input asp-for="Value" type="number" class="form-control" />
                     </div>
-                    <div class="form-group">
 
+                    <div class="form-group">
+                        <label asp-for="Recurrence" class="col-form-label"></label>
+                        <select asp-for="Recurrence" class="form-select mb-3" aria-label="Type">
+                            <option selected>Select Recurrence</option>
+                            @for (int i = 0; i <= RecurrentConstant.GetCountItems(); i++)
+                            {
+                                <option value="@i">@RecurrentConstant.GetDescription(i)</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
                         <label asp-for="CategoryId" class="col-form-label"></label>
                         <select asp-for="CategoryId" class="form-select mb-3" aria-label="CategoryId" asp-items="@ViewBag.Categories">
                             <span asp-validation-for="CategoryId" class="text-danger"></span>

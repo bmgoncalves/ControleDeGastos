@@ -75,7 +75,9 @@ namespace ControleDeGastos.Service.WebApi.Controllers
             var e = _repoEntries.GetById(id);
             if (e != null)
             {
-                return Ok(e);
+                var jsonObj = JsonConvert.SerializeObject(e);
+                //var contentString = new StringContent(jsonObj, Encoding.UTF8, "application/json");
+                return Ok(jsonObj);
             }
             return NotFound();
         }
@@ -88,17 +90,12 @@ namespace ControleDeGastos.Service.WebApi.Controllers
         }
 
 
-        [HttpGet("{id}/{first}/{second}")]
-        public IActionResult GetPorParamentro()
-        {
-            return Ok();
-        }
-
-        [HttpGet("{data}")]
-        public IActionResult GetPorData(DateTime d)
-        {
-            var list = _repoEntries.GetByDate(d);
-            return Ok(list);
-        }
+       
+        //[HttpGet("{data}")]
+        //public IActionResult GetPorData(DateTime d)
+        //{
+        //    var list = _repoEntries.GetByDate(d);
+        //    return Ok(list);
+        //}
     }
 }

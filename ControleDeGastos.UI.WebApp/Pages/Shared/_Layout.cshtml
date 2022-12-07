@@ -24,7 +24,7 @@
     <link rel="icon" href="~/main/docs/5.2/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
     <link rel="mask-icon" href="~/main/docs/5.2/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
     <link rel="icon" href="~/main/docs/5.2/assets/img/favicons/favicon.ico">
-    <link  rel="stylesheet" href="~/main/dist/css/jquery-confirm.min.css" />
+    <link rel="stylesheet" href="~/main/dist/css/jquery-confirm.min.css" />
     <meta name="theme-color" content="#712cf9">
 
 
@@ -106,15 +106,21 @@
                 <div class="position-sticky pt-3 sidebar-sticky">
                     <ul class="nav flex-column">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">
+                            <a class="nav-link active" aria-current="page" href="~/">
                                 <span data-feather="home" class="align-text-bottom"></span>
                                 Dashboard
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">
-                                <span data-feather="file" class="align-text-bottom"></span>
-                                Orders
+                            <a class="nav-link" href="~/Financial/Entries">
+                                <span data-feather="file-text" class="align-text-bottom"></span>
+                                Entries
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/Financial/Categories">
+                                <span data-feather="layers" class="align-text-bottom"></span>
+                                Categories
                             </a>
                         </li>
                         <li class="nav-item">
@@ -135,12 +141,7 @@
                                 Reports
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">
-                                <span data-feather="layers" class="align-text-bottom"></span>
-                                Integrations
-                            </a>
-                        </li>
+
                     </ul>
 
                     <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted text-uppercase">
@@ -193,12 +194,24 @@
     <script src="~/main/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script>
-    <script src="~/main/dist/js/dashboard.js"></script>
+  
     <script src="~/main/dist/js/jquery-confirm.min.js"></script>
     <script type="text/javascript" src="~/main/dist/js/delete.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+    <script src="~/main/dist/js/dashboard.js"></script>
+
 
     @await RenderSectionAsync("Scripts", required: false)
+    <script type="text/javascript">
+        $(".nav-item").click(function() {
+            var active = $(".nav").find(".active");
+            $("." + active).removeClass("active");
+            var linkClicked = $(this).find(".nav-link");
+            
+            $("." + linkClicked).addClass("active");
+        });
+
+    </script>
 
 </body>
 </html>

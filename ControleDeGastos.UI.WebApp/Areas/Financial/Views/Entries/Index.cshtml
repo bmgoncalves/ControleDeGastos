@@ -11,57 +11,53 @@
 
 <div class="row mb-2">
     <div class="col-lg-12">
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title mb-4">Entries</h5>
-                <a href="@(Url.Action("AddOrEdit","Entries"))" class="btn btn-primary mr-2">Add New</a>
-                <div class="table-responsive">
-                    <div class="alert alert-danger div-alert alert-dismissible fade show mt-2" role="alert" hidden>
-                        <strong>Erro!</strong> <span class="spanErro"></span>
-                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                    </div>
-                    <div class="alert alert-success div-alert-success alert-dismissible fade show mt-2" role="alert" hidden>
-                        <strong>Success!</strong> Category deleted!
-                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                    </div>
-                    <table class="table center-aligned-table table-hover">
-                        <thead>
-                            <tr>
-                                <th scope="col">#</th>
-                                <th scope="col">Description</th>
-                                <th scope="col">Value</th>
-                                <th scope="col">Date</th>
-                                <th scope="col">Category</th>
-                                <th scope="col">Recurrence</th>
-                                <th scope="col">Actions</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @if (Model != null)
-                            {
-                                @foreach (var c in Model)
-                                {
-
-                                    <tr>
-                                        <th scope="row">@c.Id</th>
-                                        <td>@c.Description</td>
-                                        <td>@c.Value</td>
-                                        <td>@c.DateTransaction</td>
-                                        <td>@c.CategoryId</td>
-                                        <td>@c.Recurrence</td>
-                                        <td>
-                                            <a href="@(Url.Action("AddOrEdit","Entries", new { id=c.Id }))" class="btn btn-primary btn-sm">Edit</a>
-                                            <a href="#" data-url="@(Url.Action("Delete","Entries", new {id=c.Id}))" class="btn btn-danger btn-remove btn-sm">Remove</a>
-                                        </td>
-
-                                    </tr>
-                                }
-                            }
-                        </tbody>
-                    </table>
-
-                </div>
+        <h5 class="card-title mb-4">Entries</h5>
+        <a href="@(Url.Action("AddOrEdit","Entries"))" class="btn btn-primary mr-2">Add New</a>
+        <div class="table-responsive">
+            <div class="alert alert-danger div-alert alert-dismissible fade show mt-2" role="alert" hidden>
+                <strong>Erro!</strong> <span class="spanErro"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
+            <div class="alert alert-success div-alert-success alert-dismissible fade show mt-2" role="alert" hidden>
+                <strong>Success!</strong> Category deleted!
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            <table class="table center-aligned-table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Value</th>
+                        <th scope="col">Date</th>
+                        <th scope="col">Category</th>
+                        <th scope="col">Recurrence</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null)
+                    {
+                        @foreach (var c in Model)
+                        {
+
+                            <tr>
+                                <th scope="row">@c.Id</th>
+                                <td>@c.Description</td>
+                                <td>@c.Value</td>
+                                <td>@c.DateTransaction</td>
+                                <td>@(c.Categories?.Description)</td>
+                                <td>@(RecurrentConstant.GetDescription(c.Recurrence))</td>
+                                <td>
+                                    <a href="@(Url.Action("AddOrEdit","Entries", new { id=c.Id }))" class="btn btn-primary btn-sm">Edit</a>
+                                    <a href="#" data-url="@(Url.Action("Delete","Entries", new {id=c.Id}))" class="btn btn-danger btn-remove btn-sm">Remove</a>
+                                </td>
+
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+
         </div>
     </div>
 </div>

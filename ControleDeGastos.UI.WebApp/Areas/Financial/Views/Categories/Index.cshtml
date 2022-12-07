@@ -38,16 +38,14 @@
                             {
                                 @foreach (var c in Model)
                                 {
-
                                     <tr>
                                         <th scope="row">@c.Id</th>
                                         <td>@c.Description</td>
-                                        <td>@(TypeTransactionConstant.GetDescriptionTypeTransaction(c.Type))</td>
+                                        <td>@(TypeTransactionConstant.GetDescription(c.Type))</td>
                                         <td>
                                             <a href="@(Url.Action("AddOrEdit","Categories", new { id=c.Id }))" class="btn btn-primary btn-sm">Edit</a>
                                             <a href="#" data-url="@(Url.Action("Delete","Categories", new {id=c.Id}))" class="btn btn-danger btn-remove btn-sm">Remove</a>
                                         </td>
-
                                     </tr>
                                 }
                             }
