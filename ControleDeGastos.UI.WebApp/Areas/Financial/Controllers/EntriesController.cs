@@ -101,6 +101,18 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
             return View();
         }
 
+        public async Task<IActionResult> Delete(int id)
+        {
+            var client = _httpClientFactory.CreateClient();
+            var response = await client.DeleteAsync($"EntriesApi/{id}");
+            if (response.IsSuccessStatusCode)
+            {
+                return RedirectToAction(nameof(Index));
+            }
+            var erro = await response.Content.ReadAsStringAsync();
+            return BadRequest(erro);
+        }
+
 
     }
 }

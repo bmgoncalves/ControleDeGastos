@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ElVFYLTGNq4kN9SNYHG52XWfAjYGHZU63e8ROa2a7l8=",
+  "Hash": "8ZYXmFD93gpgDB46Rqptaeb+hL0d3VNabGBF/iM0BvU=",
   "Source": "ControleDeGastos.UI.WebApp",
   "BasePath": "_content/ControleDeGastos.UI.WebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ControleDeGastos.UI.WebApp\\wwwroot",
       "Source": "ControleDeGastos.UI.WebApp",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ControleDeGastos.UI.WebApp.styles.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ControleDeGastos.UI.WebApp.styles.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "ControleDeGastos.UI.WebApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ControleDeGastos.UI.WebApp.styles.css"
+      "OriginalItemSpec": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ControleDeGastos.UI.WebApp.styles.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ControleDeGastos.UI.WebApp.bundle.scp.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ControleDeGastos.UI.WebApp.bundle.scp.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "ControleDeGastos.UI.WebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ControleDeGastos.UI.WebApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ControleDeGastos.UI.WebApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\css\\site.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\favicon.ico",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\js\\site.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\dashboard.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\dashboard.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/dashboard.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\dashboard.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\dashboard.rtl.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\dashboard.rtl.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/dashboard.rtl.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\dashboard.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\jquery-confirm.min.css",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\css\\jquery-confirm.min.css",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/css/jquery-confirm.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\css\\jquery-confirm.min.css"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\dashboard.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\dashboard.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/dashboard.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\delete.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\delete.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/delete.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\delete.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\jquery-confirm.min.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\dist\\js\\jquery-confirm.min.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/dist/js/jquery-confirm.min.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\main\\dist\\js\\jquery-confirm.min.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\alert.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\alert.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/alert.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\alert.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\alert.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\alert.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/alert.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\alert.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\base-component.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\base-component.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/base-component.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\base-component.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\base-component.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\base-component.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/base-component.js.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\base-component.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\button.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\button.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/button.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\button.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\button.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\button.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/button.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\button.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\carousel.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\carousel.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/carousel.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\carousel.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\carousel.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\carousel.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/carousel.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\carousel.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\collapse.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\collapse.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/collapse.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\collapse.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\collapse.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\collapse.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/collapse.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\collapse.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\data.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\data.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dom/data.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dom\\data.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\data.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\data.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dom/data.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dom\\data.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\event-handler.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\event-handler.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dom/event-handler.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dom\\event-handler.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\event-handler.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\event-handler.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dom/event-handler.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dom\\event-handler.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\manipulator.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\manipulator.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dom/manipulator.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dom\\manipulator.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\manipulator.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\manipulator.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dom/manipulator.js.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dom\\manipulator.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\selector-engine.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\selector-engine.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dom/selector-engine.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dom\\selector-engine.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\selector-engine.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dom\\selector-engine.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dom/selector-engine.js.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dom\\selector-engine.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dropdown.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dropdown.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dropdown.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dropdown.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dropdown.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\dropdown.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/dropdown.js.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\dropdown.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\modal.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\modal.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/modal.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\modal.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\modal.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\modal.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/modal.js.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\modal.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\offcanvas.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\offcanvas.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/offcanvas.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\offcanvas.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\offcanvas.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\offcanvas.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/offcanvas.js.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\offcanvas.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\popover.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\popover.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/popover.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\popover.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\popover.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\popover.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/popover.js.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\popover.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\scrollspy.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\scrollspy.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/scrollspy.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\scrollspy.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\scrollspy.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\scrollspy.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/scrollspy.js.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\scrollspy.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\tab.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\tab.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/tab.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\tab.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\tab.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\tab.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/tab.js.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\tab.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\toast.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\toast.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/toast.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\toast.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\toast.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\toast.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/toast.js.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\toast.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\tooltip.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\tooltip.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/tooltip.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\tooltip.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\tooltip.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\tooltip.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/tooltip.js.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\tooltip.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\backdrop.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\backdrop.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/backdrop.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\backdrop.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\backdrop.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\backdrop.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/backdrop.js.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\backdrop.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\component-functions.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\component-functions.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/component-functions.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\component-functions.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\component-functions.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\component-functions.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/component-functions.js.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\component-functions.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\config.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\config.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/config.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\config.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\config.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\config.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/config.js.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\config.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\focustrap.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\focustrap.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/focustrap.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\focustrap.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\focustrap.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\focustrap.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/focustrap.js.map",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\focustrap.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\index.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\index.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/index.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\index.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\index.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\index.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/index.js.map",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\index.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\sanitizer.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\sanitizer.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/sanitizer.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\sanitizer.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\sanitizer.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\sanitizer.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/sanitizer.js.map",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\sanitizer.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\scrollbar.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\scrollbar.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/scrollbar.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\scrollbar.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\scrollbar.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\scrollbar.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/scrollbar.js.map",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\scrollbar.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\swipe.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\swipe.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/swipe.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\swipe.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\swipe.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\swipe.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/swipe.js.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\swipe.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\template-factory.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\template-factory.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/template-factory.js",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\template-factory.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\template-factory.js.map",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\dist\\util\\template-factory.js.map",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/dist/util/template-factory.js.map",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\dist\\util\\template-factory.js.map"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\index.esm.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\index.esm.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/index.esm.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\index.esm.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\index.umd.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\index.umd.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/index.umd.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\index.umd.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\alert.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\alert.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/alert.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\alert.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\base-component.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\base-component.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/base-component.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\base-component.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\button.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\button.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/button.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\button.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\carousel.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\carousel.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/carousel.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\carousel.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\collapse.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\collapse.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/collapse.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\collapse.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dom\\data.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dom\\data.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/dom/data.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\dom\\data.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dom\\event-handler.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dom\\event-handler.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/dom/event-handler.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\dom\\event-handler.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dom\\manipulator.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dom\\manipulator.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/dom/manipulator.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\dom\\manipulator.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dom\\selector-engine.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dom\\selector-engine.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/dom/selector-engine.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\dom\\selector-engine.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dropdown.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\dropdown.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/dropdown.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\dropdown.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\modal.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\modal.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/modal.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\modal.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\offcanvas.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\offcanvas.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/offcanvas.js",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\offcanvas.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\popover.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\popover.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/popover.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\popover.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\scrollspy.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\scrollspy.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/scrollspy.js",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\scrollspy.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\tab.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\tab.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/tab.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\tab.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\toast.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\toast.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/toast.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\toast.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\tooltip.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\tooltip.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/tooltip.js",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\tooltip.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\backdrop.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\backdrop.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/backdrop.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\backdrop.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\component-functions.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\component-functions.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/component-functions.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\component-functions.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\config.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\config.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/config.js",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\config.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\focustrap.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\focustrap.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/focustrap.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\focustrap.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\index.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\index.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/index.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\index.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\sanitizer.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\sanitizer.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/sanitizer.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\sanitizer.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\scrollbar.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\scrollbar.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/scrollbar.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\scrollbar.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\swipe.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\swipe.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/swipe.js",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\swipe.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\template-factory.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\src\\util\\template-factory.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/src/util/template-factory.js",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\src\\util\\template-factory.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\browsers.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\browsers.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/browsers.js",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\browsers.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\helpers\\fixture.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\helpers\\fixture.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/helpers/fixture.js",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\helpers\\fixture.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\bundle.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\bundle.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/integration/bundle.js",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\integration\\bundle.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\bundle-modularity.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\bundle-modularity.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/integration/bundle-modularity.js",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\integration\\bundle-modularity.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\index.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\index.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/integration/index.html",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\integration\\index.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\rollup.bundle.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\rollup.bundle.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/integration/rollup.bundle.js",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\integration\\rollup.bundle.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\rollup.bundle-modularity.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\integration\\rollup.bundle-modularity.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/integration/rollup.bundle-modularity.js",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\integration\\rollup.bundle-modularity.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\karma.conf.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\karma.conf.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/karma.conf.js",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\karma.conf.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\README.md",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\README.md",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/README.md",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\README.md"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\.eslintrc.json",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\.eslintrc.json",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/.eslintrc.json",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\.eslintrc.json"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\alert.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\alert.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/alert.spec.js",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\alert.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\base-component.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\base-component.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/base-component.spec.js",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\base-component.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\button.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\button.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/button.spec.js",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\button.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\carousel.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\carousel.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/carousel.spec.js",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\carousel.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\collapse.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\collapse.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/collapse.spec.js",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\collapse.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dom\\data.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dom\\data.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/dom/data.spec.js",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\dom\\data.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dom\\event-handler.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dom\\event-handler.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/dom/event-handler.spec.js",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\dom\\event-handler.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dom\\manipulator.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dom\\manipulator.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/dom/manipulator.spec.js",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\dom\\manipulator.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dom\\selector-engine.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dom\\selector-engine.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/dom/selector-engine.spec.js",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\dom\\selector-engine.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dropdown.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\dropdown.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/dropdown.spec.js",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\dropdown.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\jquery.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\jquery.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/jquery.spec.js",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\jquery.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\modal.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\modal.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/modal.spec.js",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\modal.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\offcanvas.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\offcanvas.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/offcanvas.spec.js",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\offcanvas.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\popover.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\popover.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/popover.spec.js",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\popover.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\scrollspy.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\scrollspy.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/scrollspy.spec.js",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\scrollspy.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\tab.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\tab.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/tab.spec.js",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\tab.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\toast.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\toast.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/toast.spec.js",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\toast.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\tooltip.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\tooltip.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/tooltip.spec.js",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\tooltip.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\backdrop.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\backdrop.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/backdrop.spec.js",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\backdrop.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\component-functions.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\component-functions.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/component-functions.spec.js",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\component-functions.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\config.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\config.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/config.spec.js",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\config.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\focustrap.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\focustrap.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/focustrap.spec.js",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\focustrap.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\index.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\index.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/index.spec.js",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\index.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\sanitizer.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\sanitizer.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/sanitizer.spec.js",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\sanitizer.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\scrollbar.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\scrollbar.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/scrollbar.spec.js",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\scrollbar.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\swipe.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\swipe.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/swipe.spec.js",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\swipe.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\template-factory.spec.js",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\unit\\util\\template-factory.spec.js",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/unit/util/template-factory.spec.js",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\unit\\util\\template-factory.spec.js"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\.eslintrc.json",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\.eslintrc.json",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/.eslintrc.json",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\.eslintrc.json"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\alert.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\alert.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/alert.html",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\alert.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\button.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\button.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/button.html",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\button.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\carousel.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\carousel.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/carousel.html",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\carousel.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\collapse.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\collapse.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/collapse.html",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\collapse.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\dropdown.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\dropdown.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/dropdown.html",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\dropdown.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\modal.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\modal.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/modal.html",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\modal.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\popover.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\popover.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/popover.html",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\popover.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\scrollspy.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\scrollspy.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/scrollspy.html",
       "AssetKind": "All",
@@ -4063,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\scrollspy.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\tab.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\tab.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/tab.html",
       "AssetKind": "All",
@@ -4080,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\tab.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\toast.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\toast.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/toast.html",
       "AssetKind": "All",
@@ -4097,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\main\\js\\tests\\visual\\toast.html"
     },
     {
-      "Identity": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\tooltip.html",
+      "Identity": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\main\\js\\tests\\visual\\tooltip.html",
       "SourceId": "ControleDeGastos.UI.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\portifolio\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\GitHub\\ControleDeGastos\\ControleDeGastos.UI.WebApp\\wwwroot\\",
       "BasePath": "_content/ControleDeGastos.UI.WebApp",
       "RelativePath": "main/js/tests/visual/tooltip.html",
       "AssetKind": "All",

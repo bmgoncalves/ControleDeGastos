@@ -65,8 +65,16 @@ namespace ControleDeGastos.Service.WebApi.Controllers
         [HttpDelete]
         public IActionResult Delete(int id)
         {
-            _repoEntries.Delete(id);
-            return Ok();
+            try
+            {
+                _repoEntries.Delete(id);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Could not delete {id} - {ex.Message}");
+                
+            }
         }
 
         [HttpGet("{id}")]
