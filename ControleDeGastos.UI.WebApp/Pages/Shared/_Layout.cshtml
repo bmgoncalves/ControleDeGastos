@@ -191,9 +191,10 @@
     </div>
 
 
-    <script src="~/main/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <script src="~/main/dist/js/bootstrap.bundle.min.js" ></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
   
     <script src="~/main/dist/js/jquery-confirm.min.js"></script>
     <script type="text/javascript" src="~/main/dist/js/delete.js"></script>
@@ -211,6 +212,42 @@
             //TODO - Mudar link para ativo ao clicar
             
             $("." + linkClicked).addClass("active");
+        });
+
+        $(document).ready(function () {
+            $('.date').mask('00/00/0000');
+            $('.time').mask('00:00:00');
+            $('.date_time').mask('00/00/0000 00:00:00');
+            $('.cep').mask('00000-000');
+            $('.phone').mask('0000-0000');
+            $('.phone_with_ddd').mask('(00) 0000-0000');
+            $('.phone_us').mask('(000) 000-0000');
+            $('.mixed').mask('AAA 000-S0S');
+            $('.cpf').mask('000.000.000-00', { reverse: true });
+            $('.cnpj').mask('00.000.000/0000-00', { reverse: true });
+            $('.money').mask('000.000.000.000.000,00', { reverse: true });
+            $('.money2').mask("#.##0,00", { reverse: true });
+            $('.ip_address').mask('0ZZ.0ZZ.0ZZ.0ZZ', {
+                translation: {
+                    'Z': {
+                        pattern: /[0-9]/, optional: true
+                    }
+                }
+            });
+            $('.ip_address').mask('099.099.099.099');
+            $('.percent').mask('##0,00%', { reverse: true });
+            $('.clear-if-not-match').mask("00/00/0000", { clearIfNotMatch: true });
+            $('.placeholder').mask("00/00/0000", { placeholder: "__/__/____" });
+            $('.fallback').mask("00r00r0000", {
+                translation: {
+                    'r': {
+                        pattern: /[\/]/,
+                        fallback: '/'
+                    },
+                    placeholder: "__/__/____"
+                }
+            });
+            $('.selectonfocus').mask("00/00/0000", { selectOnFocus: true });
         });
 
     </script>
