@@ -8,7 +8,7 @@ namespace ControleDeGastos.UI.WebApp.Areas.Financial.Controllers
     [Area("Financial")]
     public class CategoriesController : Controller
     {
-        private IHttpClientFactory _httpClientFactory;
+        private readonly IHttpClientFactory _httpClientFactory;
         public CategoriesController(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;

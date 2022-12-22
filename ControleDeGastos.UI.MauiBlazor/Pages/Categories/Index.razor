@@ -1,0 +1,30 @@
+﻿@using ControleDeGastos.ApplicationCore.Entities;
+<h3>Categories</h3>
+
+@code {
+    private readonly HttpClient _client;
+    public Index(HttpClient client)
+    {
+        _client = client;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var response = _client.GetAsync($"CategoriesApi");
+            if (response.IsCompletedSuccessfully)
+            {
+                IEnumerable<Category>? listaCategories
+            }
+            return base.OnInitializedAsync();
+
+        }
+        catch (Exception ex)
+        {
+
+            throw;
+        }
+    }
+
+}
