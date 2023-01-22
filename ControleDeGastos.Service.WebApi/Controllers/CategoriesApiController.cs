@@ -3,7 +3,6 @@ using ControleDeGastos.ApplicationCore.Entities;
 using ControleDeGastos.ApplicationCore.Models;
 using ControleDeGastos.Infra.Repositories.Interface;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 
 namespace ControleDeGastos.Service.WebApi.Controllers
 {
